@@ -1,0 +1,21 @@
+[
+    "tf.compat.v1",
+    "tf.estimator",
+    "tf.feature_column",
+    "tf.xla.experimental.compile",
+    "tf.config.",
+    "tf.distribute.",
+    "tf.errors.",
+    "tf.Graph",
+    "tf.io.gfile.",
+    "tf.io.read_file",
+    "tf.io.write_file",
+    "tf.io.write_graph",
+    "tf.profiler.",
+    "tf.summary.",
+    "tf.sysconfig.",
+    "tf.test.",
+    "tf.tpu.",
+    "tf.raw_ops.LoadTPUEmbedding",
+    "tf.raw_ops.TPU"
+]

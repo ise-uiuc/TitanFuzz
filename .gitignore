@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+__pycache__/
+/codex-raw
+/test-incoder*
+/incoder*
+/codex*
+/temp
+/venv/
+/Result
+/Results
+/Results*
+*.temp
+trace*.txt
+*.log

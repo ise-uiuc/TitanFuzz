@@ -1,0 +1,4 @@
+tensorflow
+torch
+transformers
+astunparse==1.6.3
